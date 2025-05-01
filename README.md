@@ -1,35 +1,13 @@
-# first_vue_project
+**Setup Instructions**
 
-This template should help get you started developing with Vue 3 in Vite.
+1. Clone the Project Repository
+- git clone https:...
 
-## Recommended IDE Setup
+2. Go to your project directory
+   cd /path to project directory
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+3. RUN npm run dev
 
-## Customize configuration
+**Usage**
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+User can add new todo item through input and if it's completed then enable the checkbox so that completed item will move to completed todo list.
